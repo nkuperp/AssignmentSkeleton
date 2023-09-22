@@ -1,32 +1,9 @@
-# AssignmentSkeleton
+Mast 397 - Assignment 2
+Neebing Kuper-Psenicnik
+The assignment was to draw a sports field usiung a program. I made a hockey rink in python using matplot lib. The dimensions are almost all to scale save for some slight adjustments made fror aesthetic purposes. 
 
-An example layout students can use when submitting assingments for the Sports Analytics
-course at Concordia University.
 
-If forking/cloning this repository, remember to set it to “private”.
-Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
-
-## Assignment/Project Number ?
-
-## Brief description of Assignment/Project
-
-## Group Members
-
-## Setup
-
-If using `pyenv` virtual env:
-
-```shell
-python -m venv env
-source env/bin/activate
-```
-
-Otherwise activate your conda environment.
-
-From your virtual environment:
-
-```shell
-pip install -r requirements.txt
-```
-
-## Extra Comments
+Sources used:
+https://www.sportsfeelgoodstories.com/hockey-rink-dimensions-size-diagram/
+https://matplotlib.org/stable/
+https://thewincolumn.ca/2021/01/15/r-tutorial-creating-an-nhl-rink-using-the-tidyverse/
