@@ -1,4 +1,4 @@
-Mast 397 - Assignment 2 ****NOTE: IGNORE 'make_rink.py' it is an empty file. 
+Mast 397 - Assignment 2 - NOTE: IGNORE 'make_rink.py' it is an empty file 
 Neebing Kuper-Psenicnik
 The assignment was to draw a sports field usiung a program. I made a hockey rink in python using matplot lib. The dimensions are almost all to scale save for some slight adjustments made fror aesthetic purposes. 
 
